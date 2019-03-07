@@ -10,10 +10,10 @@ last_modified_at: 2019-03-07T13:00:00+09:00
 toc: true
 publish: true
 classes: wide
+comments: true
 ---
 
-
-
+<br>
 
 # Minimal Mistakes 를 적용한 Github Page 만들기
 
@@ -149,8 +149,14 @@ bundle exec jekyll serve
 위의 일련의 과정으로 기본적인 블로그를 사용하기 위한 세팅은 끝났다. 자세한 설정(_config.yml 수정 등...) 은 다른 여러 글에서 소개하고 있으니 참고하면 좋겠다.
 
 
+<br><br>
 
 
+{% if page.comments %}
+<div id="post-disqus" class="container">
+{% include disqus.html %}
+</div>
+{% endif %}
 
 
 

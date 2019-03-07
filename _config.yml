@@ -303,4 +303,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Disqus
+discus-identifier: pnurep-github-io # add your discus identifier
+
   # >>>>>>>>>>>>>>>>>>>> 여기까지 추가 됨
