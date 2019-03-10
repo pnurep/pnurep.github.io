@@ -5,7 +5,7 @@ title: Functional Thinking Chapter 1. 왜
 author: Gold
 author-email: pnurep@gmail.com
 description: 함수형사고_챕터_1_왜
-keywords: Functional Programming, FP, Kotlin, Scala, Haskell, Groovy, Closure
+tags: Functional_Programming, FP, Kotlin, Scala, Haskell, Groovy, Closure
 last_modified_at: 2019-03-10T13:00:00+09:00
 toc: true
 publish: true
