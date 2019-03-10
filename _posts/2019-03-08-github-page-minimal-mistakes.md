@@ -1,11 +1,14 @@
 ---
 layout: single
-categories: Blogging
+categories:
+  - Blogging
 title: Minimal Mistakes 를 적용한 Github Page 만들기
 author: Gold
 author-email: pnurep@gmail.com
 description: Minimal Mistakes 를 적용한 Github Page 만들기에 대하여 알아봅니다.
-tags: Jekyll Github_Pages
+tags:
+  - Jekyll
+  - Github Pages
 last_modified_at: 2019-03-07T13:00:00+09:00
 toc: true
 publish: true
