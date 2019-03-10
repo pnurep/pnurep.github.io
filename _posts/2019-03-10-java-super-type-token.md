@@ -5,7 +5,7 @@ title: Java Super Type Token 에 대하여
 author: Gold
 author-email: pnurep@gmail.com
 description: Super Type Token 에 대해 알아봅니다
-tags: Java, Class_Literal, Type_Token, Super_Type_Token, Gson
+tags: Java Class_Literal Type_Token Super_Type_Token Gson
 last_modified_at: 2019-03-10T13:00:00+09:00
 toc: true
 publish: true
