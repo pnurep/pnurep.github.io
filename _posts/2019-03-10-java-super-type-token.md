@@ -18,6 +18,9 @@ toc: true
 publish: true
 classes: wide
 comments: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
 ---
 
 <br>
