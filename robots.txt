@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pnurep.github.io/sitemap.xml
